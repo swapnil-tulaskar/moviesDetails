@@ -2,7 +2,7 @@
   {
     "title": "Movie 1",
     "year": "2025",
-    "poster": "https://example.com/poster1.jpg",
+   "poster": "https://via.placeholder.com/180x270.png?text=Movie+Poster",
     "releaseDate": "2025-09-20",
     "genre": "Action, Adventure",
     "description": "This is a brief description of Movie 1."

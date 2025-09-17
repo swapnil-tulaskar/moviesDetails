@@ -1,18 +1,38 @@
 [
   {
-    "title": "Movie 1",
+    "title": "Thunderbolts",
     "year": "2025",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1a/Dune_2021_film_poster.jpg",
-    "releaseDate": "2025-09-20",
+    "poster": "https://www.impawards.com/2025/posters/thunderbolts.jpg",
+    "releaseDate": "2025-07-26",
     "genre": "Action, Adventure",
-    "description": "This is a brief description of Movie 1."
+    "description": "A team of antiheroes and reformed villains unite for a dangerous mission.",
+    "link": "https://www.imdb.com/title/tt12345678/"
   },
   {
-    "title": "Movie 2",
-    "year": "2024",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8f/Avengers_Endgame_poster.jpg",
-    "releaseDate": "2024-12-10",
-    "genre": "Comedy, Drama",
-    "description": "This is a brief description of Movie 2."
+    "title": "Superman: Legacy",
+    "year": "2025",
+    "poster": "https://www.cinematerial.com/movies/superman-legacy-2025/poster.jpg",
+    "releaseDate": "2025-07-11",
+    "genre": "Action, Sci-Fi",
+    "description": "Superman returns to protect the world in a thrilling new chapter of the franchise.",
+    "link": "https://www.imdb.com/title/tt23456789/"
+  },
+  {
+    "title": "Elio",
+    "year": "2025",
+    "poster": "https://www.fantasylandnews.com/wp-content/uploads/2024/11/elio-poster.jpg",
+    "releaseDate": "2025-06-13",
+    "genre": "Animation, Adventure, Family",
+    "description": "Pixar's latest animated film about a boy's journey across the universe.",
+    "link": "https://www.imdb.com/title/tt34567890/"
+  },
+  {
+    "title": "Officer On Duty",
+    "year": "2025",
+    "poster": "https://example.com/officer-on-duty-poster.jpg",
+    "releaseDate": "2025-09-20",
+    "genre": "Action, Thriller",
+    "description": "A police officer investigates a counterfeit jewelry racket, uncovering a web of crime.",
+    "link": "https://moviesblogger.com/amy_movie/officer-on-duty-movies-a-thrilling-journey-through-action-and-dram/"
   }
 ]

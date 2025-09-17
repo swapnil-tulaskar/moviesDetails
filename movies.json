@@ -6,7 +6,7 @@
     "releaseDate": "2025-07-26",
     "genre": "Action, Adventure",
     "description": "A team of antiheroes and reformed villains unite for a dangerous mission.",
-    "link": "https://www.imdb.com/title/tt12345678/"
+    
   },
   {
     "title": "Superman: Legacy",
@@ -15,7 +15,7 @@
     "releaseDate": "2025-07-11",
     "genre": "Action, Sci-Fi",
     "description": "Superman returns to protect the world in a thrilling new chapter of the franchise.",
-    "link": "https://www.imdb.com/title/tt23456789/"
+    
   },
   {
     "title": "Elio",
@@ -24,7 +24,7 @@
     "releaseDate": "2025-06-13",
     "genre": "Animation, Adventure, Family",
     "description": "Pixar's latest animated film about a boy's journey across the universe.",
-    "link": "https://www.imdb.com/title/tt34567890/"
+   
   },
   {
     "title": "Officer On Duty",
@@ -33,6 +33,6 @@
     "releaseDate": "2025-09-20",
     "genre": "Action, Thriller",
     "description": "A police officer investigates a counterfeit jewelry racket, uncovering a web of crime.",
-    "link": "https://moviesblogger.com/amy_movie/officer-on-duty-movies-a-thrilling-journey-through-action-and-dram/"
+ 
   }
 ]

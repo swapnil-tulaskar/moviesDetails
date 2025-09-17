@@ -2,7 +2,7 @@
   {
     "title": "Movie 1",
     "year": "2025",
-    "poster": "https://example.com/poster1.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1a/Dune_2021_film_poster.jpg",
     "releaseDate": "2025-09-20",
     "genre": "Action, Adventure",
     "description": "This is a brief description of Movie 1."
@@ -10,7 +10,7 @@
   {
     "title": "Movie 2",
     "year": "2024",
-    "poster": "https://example.com/poster2.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8f/Avengers_Endgame_poster.jpg",
     "releaseDate": "2024-12-10",
     "genre": "Comedy, Drama",
     "description": "This is a brief description of Movie 2."
